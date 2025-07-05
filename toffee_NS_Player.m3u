@@ -75,6 +75,17 @@
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751887429:KeyName=prod_linear:Signature=bW1ZbNoNWa90hVUAyIEcXMT7JeIQ_PqBYPhswU0WWEpXdklq6yHukszxZ3_9NtCdcgLkIyDfs2IcaRHKRv0ZCQ",
     "drmScheme": "",
     "drmLicense": ""
+  },
+{
+    "name": "Sony Ten Sports 5 HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8",
+    "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/vi5n-JQBv9knK3AHqzTC/posters/241705c1-06a9-4694-92c6-0013d1879e42.webp",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751887429:KeyName=prod_linear:Signature=bW1ZbNoNWa90hVUAyIEcXMT7JeIQ_PqBYPhswU0WWEpXdklq6yHukszxZ3_9NtCdcgLkIyDfs2IcaRHKRv0ZCQ",
+    "drmScheme": "",
+    "drmLicense": ""
   }
 
 ]
