@@ -1,12 +1,12 @@
 [
     {
     "name": "Comedy Central HD",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/comedy_central_hd/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/2427/logo/240x240/mobile_logo_461931001655891802.png",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonypix_hd_576/sonypix_hd_576.m3u8",
+    "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1711303614:KeyName=prod_linear:Signature=1Kr7-3oHZN3Oga-Wjg0HsYY3dWLHtdeG23EZ6wDZxm0jV7cjbW9f-pkbyfYt5DXBaQtEp2SntE5D_aIR7Tq5Ag",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751887744:KeyName=prod_linear:Signature=preL4bCWCTDpPvW-_76ucR5l1kiQPnOgkj7CJ288REJcKLswvE3n2kGVxefZzWeuP8SfiwS18E20C-sBdYusAg",
     "drmScheme": "",
     "drmLicense": ""
   }
