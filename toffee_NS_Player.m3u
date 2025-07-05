@@ -53,6 +53,28 @@
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751887429:KeyName=prod_linear:Signature=bW1ZbNoNWa90hVUAyIEcXMT7JeIQ_PqBYPhswU0WWEpXdklq6yHukszxZ3_9NtCdcgLkIyDfs2IcaRHKRv0ZCQ",
     "drmScheme": "",
     "drmLicense": ""
+  },
+{
+    "name": "Sony Ten Sports 1 HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8",
+    "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751887429:KeyName=prod_linear:Signature=bW1ZbNoNWa90hVUAyIEcXMT7JeIQ_PqBYPhswU0WWEpXdklq6yHukszxZ3_9NtCdcgLkIyDfs2IcaRHKRv0ZCQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "Sony Ten Sports 2 HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8",
+    "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/sy5m-JQBv9knK3AHYTTk/posters/4f34d282-9801-4308-9053-132a805fed25.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751887429:KeyName=prod_linear:Signature=bW1ZbNoNWa90hVUAyIEcXMT7JeIQ_PqBYPhswU0WWEpXdklq6yHukszxZ3_9NtCdcgLkIyDfs2IcaRHKRv0ZCQ",
+    "drmScheme": "",
+    "drmLicense": ""
   }
 
 ]
