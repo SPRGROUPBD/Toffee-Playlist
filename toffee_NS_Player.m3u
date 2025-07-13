@@ -1,15 +1,15 @@
 [
-    {
-    "name": "Sony PIX HD",
+     {
+    "name": "SONY PIX HD VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8",
-    "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
+    "logo": "https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1752497327:KeyName=prod_linear:Signature=fmgR7HkeA-9Is_AnqaiF-K4_t3KtpHWO-HohsYFchIoix6A7caN9AjZZfA8TXFVUo7keNKDyis7XBMYpdhN2CQ",
- "drmscheme":"",
-" drmlicense":""
-},
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1752552138:KeyName=prod_linear:Signature=-HS5EfQBfX4qry3-vz0X13KGKPxJ5M64wAUmxm4QpwM7OvIp7T2Fry03pb8ub6wBnRhVuCdut9Fnd6gdHeDgBQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
 {
     "name": "Sony MAX",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8",
